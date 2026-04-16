@@ -44,8 +44,9 @@ LEDManager/
 ├── LICENSE
 ├── keywords.txt
 ├── library.properties
-├── LEDManager.h
-├── LEDManager.cpp
+├── src/
+|   ├── LEDManager.h
+|   └── LEDManager.cpp
 └── examples/
     ├── 01_BasicModes/
     │   └── 01_BasicModes.ino
@@ -199,8 +200,9 @@ LEDManager/
 ├── LICENSE
 ├── keywords.txt
 ├── library.properties
-├── LEDManager.h
-├── LEDManager.cpp
+├── src/
+|   ├── LEDManager.h
+|   └── LEDManager.cpp
 └── examples/
     ├── 01_BasicModes/
     │   └── 01_BasicModes.ino
