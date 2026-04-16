@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map — LEDManager
+# S.M. DIY Home
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LEDManager	KEYWORD1
+LEDMode	KEYWORD1
+LEDState	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+addLED	KEYWORD2
+setMode	KEYWORD2
+setModeTimed	KEYWORD2
+setState	KEYWORD2
+getMode	KEYWORD2
+pulse	KEYWORD2
+update	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LED_OFF	LITERAL1
+LED_ON	LITERAL1
+LED_BLINK	LITERAL1
+LED_PULSE	LITERAL1
+LED_ON_TIMED	LITERAL1
+LED_BLINK_FAST_TIMED	LITERAL1
+MAX_LEDS	LITERAL1
+BLINK_INTERVAL	LITERAL1
+PULSE_DURATION	LITERAL1
+BLINK_FAST_INTERVAL	LITERAL1
