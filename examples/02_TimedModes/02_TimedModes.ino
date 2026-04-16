@@ -12,7 +12,7 @@
 //  LED na pinie 2 świeci 2 sekundy, potem gaśnie.
 //  LED na pinie 3 miga szybko przez 1 sekundę, potem gaśnie.
 //
-//  S.M. DIY Home | github.com/MaciejSikorski/LEDManager
+//  S.M. DIY Home | https://github.com/00Maciek00/libraries_LEDManager
 // =============================================================================
 
 #include <LEDManager.h>
