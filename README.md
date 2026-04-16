@@ -152,9 +152,10 @@ Licencja Apache 2.0. Szczegóły w pliku [LICENSE](LICENSE).
 
 ---
 
+**Projekt:** S.M. DIY Home 
+
 **Wersja:** 1.2.0  
-**Autor:** Maciej Sikorski 
-**Projekt:** S.M. DIY Home  
+**Autor:** Maciej Sikorski  
 **Data:** 2026-04-15  
 **Licencja:** Apache 2.0
 
@@ -308,8 +309,9 @@ Licensed under Apache 2.0. See [LICENSE](LICENSE) for details.
 
 ---
 
+**Project:** S.M. DIY Home
+
 **Version:** 1.2.0  
-**Author:** Maciej Sikorski  
-**Project:** S.M. DIY Home  
+**Author:** Maciej Sikorski    
 **Date:** 2026-04-15  
 **License:** Apache 2.0
